@@ -1,2 +1,2 @@
 # hyyy
-setting up git
+setting up git for learning
